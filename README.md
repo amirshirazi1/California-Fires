@@ -1,8 +1,3 @@
-# Final Project - Group 4
-A shared repository for our final project.
-
----
-
 ## Presentation
 
 <p align="center">
